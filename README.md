@@ -13,7 +13,7 @@
 - 第二项
 
 
-···C++
+```C++
 
 #include<bits/stdc++.h>
 using namespace std
@@ -24,4 +24,4 @@ using namespace std
 	return 0;
 }
 	
-···
+```
